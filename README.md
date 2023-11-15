@@ -1,5 +1,5 @@
 <br><br>
-<center><img src="https://raw.githubusercontent.com/KLA6/5ay.it/main/logo.svg" style="height: 180px;"></center>
+<p align="center"><img src="https://raw.githubusercontent.com/KLA6/5ay.it/main/logo.svg" style="height: 190px;"></p>
 <br><br>
 
 # 5ay.it
